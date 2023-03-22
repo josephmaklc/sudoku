@@ -5,3 +5,5 @@ This program uses a trial-and-error approach, back tracking when no more possibl
 
 You can experiment with it here:
 https://www.online-java.com/ScIiURzPC2
+
+I wrote an Android App with it: https://play.google.com/store/apps/details?id=com.optimal.solutions.sudokusolver
